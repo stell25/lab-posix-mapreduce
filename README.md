@@ -441,7 +441,6 @@ The final output is re-sorted and stored in the file `reduce`.
 > Upload your plot to github and ensure that it appears below.
 
 <img src=country_code_mapreduce.png />
-<img src=county_code_mapreduce.png />
 
 ## Part 6: MapReduce Challenge
 
